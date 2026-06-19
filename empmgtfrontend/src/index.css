@@ -1,0 +1,11 @@
+body{
+  background-color: aliceblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.card{
+  border-radius: 12px;
+}
+.table th,
+.table td{
+  vertical-align: middle;
+}
